@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @msanttos91
-- 👀 I’m interested in learn about software developer.
+- 👀 I’m interested in learn about software development.
 - 🌱 I’m currently learning Git and Azure Devops.
 - 📫 How to reach me https://www.linkedin.com/in/mariana-santos-550032a8/
 
